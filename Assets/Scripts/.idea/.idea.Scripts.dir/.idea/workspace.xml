@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a5eb488e-0055-48de-b63a-4da62ee17eb1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/MenuButtons.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SensorHeroKnight.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DestroyAnimationEvent.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HeroKnightCore.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/MenuButtons.cs" />
+        <option value="$PROJECT_DIR$/DestroyEvent_HeroKnight.cs" />
+        <option value="$PROJECT_DIR$/DestroyAnimationEvent.cs" />
+        <option value="$PROJECT_DIR$/SensorHeroKnight.cs" />
+        <option value="$PROJECT_DIR$/HeroKnightCore.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kbvcbnJ8duxjiVcktmW64yGw7L" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a5eb488e-0055-48de-b63a-4da62ee17eb1" name="Default Changelist" comment="" />
+      <created>1605982187905</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605982187905</updated>
+      <workItem from="1605982191896" duration="204000" />
+      <workItem from="1605982858346" duration="2105000" />
+      <workItem from="1605988230251" duration="189000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="449" y="1199" key="SettingsEditor" timestamp="1605988292968">
+      <screen x="0" y="1024" width="1920" height="1080" />
+    </state>
+    <state x="449" y="1199" key="SettingsEditor/0.1024.1920.1080/639.0.1280.1024/1919.1024.1920.1080@0.1024.1920.1080" timestamp="1605988292968" />
+  </component>
+</project>
